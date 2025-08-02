@@ -29,12 +29,6 @@ const deadboiwalking  = {
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deadboiwalkin&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
 </p>
 
- <h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/4MgHwgXhkV/">
-        <img title="ProdigyCore discord" alt="deadboiwalking's discord" src="https://discord.c99.nl/widget/theme-4/279949758649335809.png"/>
-    </a>
-</p>
 
   <p align="center">
   <i>&nbsp; "Too many of us are not living our dreams because we are living our fears...."</i> 
