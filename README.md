@@ -31,8 +31,8 @@ const deadboiwalking  = {
 
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/">
-        <img title="Fnoberz server discord" alt="deadboiwalking's discord" src="https://discord.c99.nl/widget/theme-4/279949758649335809.png"/>
+    <a href="https://discord.gg/4MgHwgXhkV/">
+        <img title="ProdigyCore discord" alt="deadboiwalking's discord" src="https://discord.c99.nl/widget/theme-4/279949758649335809.png"/>
     </a>
 </p>
 
